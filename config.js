@@ -4,16 +4,17 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['56977774748', 'creador', true],
-  ['447441419651'],
-  ['240222921821'],
-  ['50495745934'],
-  ['56950377550']
+  ['50237638494', 'Modificador', true],
+  ['12264060883', 'Bot Activo', true]
+
+
+
 ]
+global.email = 'chapinmods@gmail.com'
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['56950377550'], 
+global.prems = ['50237638494'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,7 +72,7 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'toma tu sticker'
+global.packname = 'ChapinMods'
 global.author = 'The Lolibot-MD'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
